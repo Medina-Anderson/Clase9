@@ -18,8 +18,8 @@ class Ventana1(QMainWindow):
         self.setWindowIcon(QtGui.QIcon("imagenes/monkey.png"))
 
         # Establecemos las propiedades de ancho y alto:
-        self.ancho = 900
-        self.alto = 600
+        self.ancho = 800
+        self.alto = 500
 
         # Establecemos el tamaño de la ventana:
         self.resize(self.ancho, self.alto)
