@@ -621,11 +621,3 @@ if __name__ == '__main__':
     ventana1.show()
 
     sys.exit(app.exec_())
-
-
-
-
-
-
-
-
