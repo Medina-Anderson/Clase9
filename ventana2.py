@@ -7,8 +7,8 @@ from PyQt5.QtWidgets import QMainWindow, QLabel, QHBoxLayout, QApplication, QScr
 
 from cliente import Cliente
 from ventana3 import Ventana3
-#
-# from ventana4 import Ventana4
+
+from ventana4 import Ventana4
 
 
 class Ventana2(QMainWindow):
