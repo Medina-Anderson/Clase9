@@ -1,4 +1,1 @@
 Steven Medina;Smedina25;12345;1094953987;stmedina@gmail.com;Ciudad de nacimiento;Calarcá;Placa de moto;WWF 05F;Nombre de mascota;Shimuelo
-a;aa;a;a;a;a;a;a;a;a;a
-e;e;e;e;e;f;f;f;f;f;f
-w;w;w;w;w;www;www;ww;ww;www;www

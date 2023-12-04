@@ -1,6 +1,7 @@
 class Cliente:
 
-    def __init__(self, nombreCompleto,
+    def __init__(self,
+                 nombreCompleto,
                  usuario,
                  password,
                  documento,
@@ -10,7 +11,7 @@ class Cliente:
                  pregunta2,
                  respuesta2,
                  pregunta3,
-                 respuesta3,
+                 respuesta3
                  ):
 
         self.nombreCompleto = nombreCompleto
@@ -27,3 +28,4 @@ class Cliente:
 
     def __str__(self):
         return f"Nombre: {self.nombreCompleto} Documento: {self.documento}"
+
